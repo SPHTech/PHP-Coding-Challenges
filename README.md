@@ -1,4 +1,4 @@
-Scandesign media PHP gray owl tests
+PHP tests
 -----------------------------------
 
 * Fork this repository
